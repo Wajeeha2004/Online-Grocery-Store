@@ -1,33 +1,24 @@
 🛒 Online Grocery Store - ASP.NET (VB)
+A complete e-commerce solution with three portals
 
-A complete e-commerce solution with customer, admin, and supplier portals.
+🔑 Key Features
 
-🔑 Key Features:
+👤 Customers
+• Browse products by category or search
+• Add items to cart & secure checkout
+• Track orders & view purchase history
 
+👨‍💼 Admins
+• Manage products, categories & user accounts
+• Process orders & generate sales reports
+• Receive low inventory alerts
 
-👤 Customers:
-
-
-✔ Browse products by category/search
-✔ Add to cart & secure checkout
-✔ Order tracking & history
-
-
-👨‍💼 Admins:
-
-
-✔ Manage products, categories & users
-✔ Process orders & view sales reports
-✔ Inventory alerts
-
-
-🏭 Suppliers:
-
-
-✔ Dedicated login portal
-✔ Manage stock levels & prices
-✔ View orders & sales analytics
+🏭 Suppliers
+• Access dedicated supplier portal
+• Update stock levels & pricing
+• Monitor orders & sales analytics
 
 🛠️ Tech Stack
-• ASP.NET Web Forms (VB)
-• SQL Server Database
+• Backend: ASP.NET Web Forms (VB)
+• Database: SQL Server
+• Frontend: Bootstrap for responsive design
