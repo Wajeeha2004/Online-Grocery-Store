@@ -5,19 +5,25 @@ A complete e-commerce solution with customer, admin, and supplier portals.
 🔑 Key Features:
 
 
-👤 Customers
+👤 Customers:
+
+
 ✔ Browse products by category/search
 ✔ Add to cart & secure checkout
 ✔ Order tracking & history
 
 
-👨‍💼 Admins
+👨‍💼 Admins:
+
+
 ✔ Manage products, categories & users
 ✔ Process orders & view sales reports
 ✔ Inventory alerts
 
 
-🏭 Suppliers
+🏭 Suppliers:
+
+
 ✔ Dedicated login portal
 ✔ Manage stock levels & prices
 ✔ View orders & sales analytics
